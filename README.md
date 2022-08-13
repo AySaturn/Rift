@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kparser246
+- 👀 I’m interested in making a popular game one day
+- 🌱 I’m currently learning C#, C++ and Lua
