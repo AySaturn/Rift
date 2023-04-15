@@ -1,1 +1,1 @@
-Rift Development Team
+troll
